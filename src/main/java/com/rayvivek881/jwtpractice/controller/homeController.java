@@ -1,6 +1,6 @@
 package com.rayvivek881.jwtpractice.controller;
 
-import com.rayvivek881.jwtpractice.models.User;
+import com.rayvivek881.jwtpractice.entities.User;
 import com.rayvivek881.jwtpractice.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
